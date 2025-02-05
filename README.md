@@ -18,7 +18,7 @@
    - 透過PNGを推奨
 
 2. 起動
-   - `overlay.ahk`をダブルクリックで実行
+   - `transparent-window.ahk`をダブルクリックで実行
    - タスクトレイにAutoHotkeyアイコンが表示されます
 
 3. 操作方法
